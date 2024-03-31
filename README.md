@@ -1,5 +1,5 @@
 # Hey, I'm Mishka 👋🏽
-I'm a Full Stack Web Devloper based in South Africa.
+I'm a Full Stack Web Devloper student at HyperionDev based in Cape Town, South Africa.
 
 ## 📦 Toolbox
 
