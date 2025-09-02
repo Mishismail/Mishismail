@@ -1,24 +1,27 @@
 # Hey, I'm Mishka 👋🏽
-I'm a Full Stack Web Devloper student at HyperionDev based in Cape Town, South Africa.
+I started my journey as a Full Stack Web Developer student at **HyperionDev** in Cape Town, South Africa. I'm currently working as a **Software Engineer in FinTech** 🚀
 
 ## 📦 Toolbox
 
-Coding language: ```Javascript```
+Coding language: ```Javascript``` ```Ruby``` ```TypeScript```  
 
-Frontend Development: ```React``` ```Next.js``` ```Bootstrap``` 
+Frontend Development: ```React``` ```Next.js``` ```Bootstrap``` ```TailwindCSS```  
 
-Backend Development: ```Express.js``` ```MongoDB```
+Backend Development: ```Express.js``` ```Node.js``` ```MongoDB``` ```Ruby on Rails``` ```PostgreSQL``` ```SQLite```  
 
-Version Control: ```Git```
+Version Control & Workflow: ```Git``` ```GitHub``` ```Docker``` ```CircleCI```  
 
-Testing: ```Postman```
+Testing & APIs: ```Postman``` ```RSpec``` ```Portman``` ```VCR```  
 
-Others: ```Confluence``` ```Jira``` ```Figma``` ```Canva```
+Collaboration & Design: ```Confluence``` ```Jira``` ```Figma``` ```Canva``` ```Slack```  
+
+Cloud & DevOps: ```AWS (EC2, RDS, S3, CodeDeploy)```  
 
 ## ✨ Fun Facts
-- Crafting digital experiences and sleek app designs are my favourite
-- The world of FinTech is endlessly fascinating
-- Mac is the ultimate platform for coding adventures
+- Obsessed with **FinTech** 
+- I balance work with creativity
+- Big foodie 👩🏽‍🍳
+- Tech stack of choice: Mac + VSCode + Docker shell = happy Mish.  
 
 ## 📫 Contact
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/mishkaismail/).
